@@ -14,6 +14,7 @@ BuildRequires:	faust-tools
 BuildRequires:	git-core
 BuildRequires:	make
 BuildRequires:	qmake5
+BuildRequires:	boost-devel
 
 %description
 DSP files needed for audio on Steam Deck hardware
